@@ -2722,3 +2722,15 @@
 4/2/2025 | 8:23:33 PM | WARN | Retrying... (0 attempts left) 
 4/2/2025 | 8:23:36 PM | ERROR | Failed to get nonce after retries: Request failed with status code 521
 4/2/2025 | 8:23:36 PM | ERROR | Failed to retrieve nonce for wallet: 0x5e6378e2E73eEdA16a8990Ab87A80F0F644c405e 
+4/3/2025 | 1:43:26 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/3/2025 | 1:43:26 AM | INFO | Start process for wallet 0x5e6378e2E73eEdA16a8990Ab87A80F0F644c405e 
+4/3/2025 | 1:43:27 AM | INFO | Trying To Login for wallet: 0x5e6378e2E73eEdA16a8990Ab87A80F0F644c405e 
+4/3/2025 | 1:43:28 AM | INFO | Login successful... 
+4/3/2025 | 1:43:28 AM | INFO | Trying to check user info... 
+4/3/2025 | 1:43:28 AM | INFO | User ID: 102580349 | Twitter: @naditaliana | Total Points: 1008000 
+4/3/2025 | 1:43:28 AM | INFO | Trying to check user miner status... 
+4/3/2025 | 1:43:29 AM | INFO | Last mining time: 4/1/2025, 12:44:27 PM
+4/3/2025 | 1:43:29 AM | INFO | Trying to start Mining for wallet: 0x5e6378e2E73eEdA16a8990Ab87A80F0F644c405e 
+4/3/2025 | 1:43:30 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/3/2025 | 1:43:30 AM | INFO | Trying to activate mining on-chain for wallet: 0x5e6378e2E73eEdA16a8990Ab87A80F0F644c405e 
+4/3/2025 | 1:43:37 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x2e20ea7084b315ac8fbf84209336214c95c9431b4e24abeaf300151ee245ef6c 
