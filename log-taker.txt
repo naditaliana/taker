@@ -5512,3 +5512,12 @@
 5/21/2025 | 4:29:20 PM | INFO | Trying to activate mining on-chain for wallet: 0x5e6378e2E73eEdA16a8990Ab87A80F0F644c405e 
 5/21/2025 | 4:29:22 PM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x5e6378e2E73eEdA16a8990Ab87A80F0F644c405e"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x2f","from":"0x5e6378e2e73eeda16a8990ab87a80f0f644c405e","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/21/2025 | 4:29:22 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/22/2025 | 1:50:56 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/22/2025 | 1:50:57 AM | INFO | Start process for wallet 0x5e6378e2E73eEdA16a8990Ab87A80F0F644c405e 
+5/22/2025 | 1:50:57 AM | INFO | Trying To Login for wallet: 0x5e6378e2E73eEdA16a8990Ab87A80F0F644c405e 
+5/22/2025 | 1:50:58 AM | INFO | Login successful... 
+5/22/2025 | 1:50:58 AM | INFO | Trying to check user info... 
+5/22/2025 | 1:50:58 AM | INFO | User ID: 102580349 | Twitter: @naditaliana | Total Points: 2088000 
+5/22/2025 | 1:50:58 AM | INFO | Trying to check user miner status... 
+5/22/2025 | 1:50:59 AM | INFO | Last mining time: 5/21/2025, 8:24:48 PM
+5/22/2025 | 1:50:59 AM | WARN | Mining already started, next mining time is: 5/22/2025, 8:24:48 PM
