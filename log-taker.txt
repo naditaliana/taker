@@ -5623,3 +5623,15 @@
 5/23/2025 | 8:24:31 PM | INFO | Trying to check user miner status... 
 5/23/2025 | 8:24:32 PM | INFO | Last mining time: 5/22/2025, 8:26:09 PM
 5/23/2025 | 8:24:32 PM | WARN | Mining already started, next mining time is: 5/23/2025, 8:26:09 PM
+5/24/2025 | 1:46:53 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/24/2025 | 1:46:53 AM | INFO | Start process for wallet 0x5e6378e2E73eEdA16a8990Ab87A80F0F644c405e 
+5/24/2025 | 1:46:54 AM | INFO | Trying To Login for wallet: 0x5e6378e2E73eEdA16a8990Ab87A80F0F644c405e 
+5/24/2025 | 1:46:55 AM | INFO | Login successful... 
+5/24/2025 | 1:46:55 AM | INFO | Trying to check user info... 
+5/24/2025 | 1:46:55 AM | INFO | User ID: 102580349 | Twitter: @naditaliana | Total Points: 2112000 
+5/24/2025 | 1:46:55 AM | INFO | Trying to check user miner status... 
+5/24/2025 | 1:46:56 AM | INFO | Last mining time: 5/22/2025, 8:26:09 PM
+5/24/2025 | 1:46:56 AM | INFO | Trying to start Mining for wallet: 0x5e6378e2E73eEdA16a8990Ab87A80F0F644c405e 
+5/24/2025 | 1:46:56 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/24/2025 | 1:46:56 AM | INFO | Trying to activate mining on-chain for wallet: 0x5e6378e2E73eEdA16a8990Ab87A80F0F644c405e 
+5/24/2025 | 1:47:11 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x39fc5bbdbd5dfd8ea718e642ff62bbac17c48de8303e3aaead5f3b659f0fb6ae 
